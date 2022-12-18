@@ -1,0 +1,15 @@
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.csproj.AssemblyReference.cache
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.AssemblyInfoInputs.cache
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.AssemblyInfo.cs
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.csproj.CoreCompileInputs.cache
+C:\Users\iTMaster\Desktop\Examples\Exsample001\bin\Debug\net7.0\Exsample001.exe
+C:\Users\iTMaster\Desktop\Examples\Exsample001\bin\Debug\net7.0\Exsample001.deps.json
+C:\Users\iTMaster\Desktop\Examples\Exsample001\bin\Debug\net7.0\Exsample001.runtimeconfig.json
+C:\Users\iTMaster\Desktop\Examples\Exsample001\bin\Debug\net7.0\Exsample001.dll
+C:\Users\iTMaster\Desktop\Examples\Exsample001\bin\Debug\net7.0\Exsample001.pdb
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.dll
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\refint\Exsample001.dll
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.pdb
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\Exsample001.genruntimeconfig.cache
+C:\Users\iTMaster\Desktop\Examples\Exsample001\obj\Debug\net7.0\ref\Exsample001.dll
