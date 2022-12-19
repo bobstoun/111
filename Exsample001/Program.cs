@@ -1,22 +1,27 @@
-﻿int z1 = 56;
-int x2 = 93;
-int c3 = 95;
-int v4 = 25;
-int h5 = 64;
-int g6 = 41;
-int f7 = 42;
-int e8 = 42;
-int d9 = 43;
+﻿int Max(int arg1, int arg2, int arg3);
 
-//int max = 25;
-//if (z1 > max) max = z1;
-//if (d9 > max) max = d9;
-//if (e8 > max) max = e8;
-//if (f7 > max) max = f7;
-//if (g6 > max) max = g6;
-//if (h5 > max) max = h5;
-//if (v4 > max) max = v4;
-//if (c3 > max) max = c3;
-//if (x2 > max) max = x2;
+{
+    int Result = arg1; 
+     if (arg2 > Result) Result = arg2;
+     if (arg3 > Result) Result = arg3;  
+return Result;
+
+}
+
+int z1 = 56;
+int z2 = 93;
+int z3 = 95;
+int v1 = 25;
+int v2 = 64;
+int v3 = 41;
+int e1 = 42;
+int e2 = 42;
+int e3 = 43;
+
+int max1 = Max( v1,e1,z1);
+int max2 = Max( v2,e2,z2);
+int max3 = Max( v3,e3,z3);
+
+int max = Max(max1, max2, max3);
 
 Console.WriteLine(max);
